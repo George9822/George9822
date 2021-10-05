@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @George9822
+- 📕 I'm pursuing a MSc in Service Engineering and Management at Faculty of Automatic Control and Computer Science, Bucharest
 - 👀 I’m interested in Data Engineering/Science/Analytics
-- 🌱 I’m currently learning some things about Data Science and I want to get the IBM Data Science Professional Certificate
+- 🌱 I’m currently learning some things about Data Science(with Python) and I want to get the IBM Data Science/Engineering Professional Certificate
 - 📫 How to reach me is by mail(floristeangeorge63@gmail.com)
 
 <!---
