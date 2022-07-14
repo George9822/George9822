@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @George9822
+- 👋 Hi, I’m @GeorgeRadu
 - 📕 I finished a MSc in Service Engineering and Management at Faculty of Automatic Control and Computer Science, Bucharest
 - 👀 I’m interested in Data Engineering/Science/Analytics
 - 🌱 I’m currently learning about Data Science and I want to get the IBM Data Science/Engineering Professional Certificate
